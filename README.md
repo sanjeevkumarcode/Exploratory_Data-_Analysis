@@ -1,3 +1,3 @@
 ## Exploratory_Data_Analysis
 
-In this repository, You'll get analysis on different datasets using Python.
+In this repository, We'll get analysis on different datasets using Python.
